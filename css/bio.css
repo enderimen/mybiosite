@@ -31,14 +31,12 @@ body{
 	color: red;
 }
 section{
-	height: 540px;
 	width: 650px;
-	margin: 10px auto; 
+	margin: 255px auto; 
 }
 .photo{
 	height: 350px;
 	width: 360px;
-	background-color: transparent;
 	margin: 30px auto; 
 }
 .head h1,p{
@@ -51,14 +49,13 @@ section{
 	padding-left: 0;
 }
 .social{
-	height: 50px;
 	width: 650px;
 }
 
 .social ul li{
 	float: left;
 	padding-left: 37px;
-	font-size:48px;
+	font-size: 36px;
 	list-style: none;
 }
 
