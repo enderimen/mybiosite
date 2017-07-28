@@ -12,7 +12,7 @@ body{
 	top: 20px;
 	left: 20px;
 	border: none;
-	opacity: 0.8;
+	opacity: 0.9;
 }
 #particles-js .alert-success:hover{
 	background-color: #350953;
